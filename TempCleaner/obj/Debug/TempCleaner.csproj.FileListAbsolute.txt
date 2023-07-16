@@ -1,0 +1,11 @@
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\bin\Debug\TempCleaner.exe.config
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\bin\Debug\TempCleaner.exe
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\bin\Debug\TempCleaner.pdb
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\obj\Debug\TempCleaner.csproj.AssemblyReference.cache
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\obj\Debug\TempCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\obj\Debug\TempCleaner.main.resources
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\obj\Debug\TempCleaner.Properties.Resources.resources
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\obj\Debug\TempCleaner.csproj.GenerateResource.cache
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\obj\Debug\TempCleaner.csproj.CoreCompileInputs.cache
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\obj\Debug\TempCleaner.exe
+C:\Users\atrix\source\repos\TempCleaner\TempCleaner\obj\Debug\TempCleaner.pdb
